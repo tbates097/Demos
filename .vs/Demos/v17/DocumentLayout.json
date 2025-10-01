@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tbates\\Python\\Demos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tbates\\Python\\Demos\\MachineSetup_demo.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MachineSetup_demo.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\10. Released Software\\Shared Python Programs\\production-2.1\\GenerateMCD.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tbates\\Python\\Demos\\LoggerDemo.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoggerDemo.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tbates\\Python\\Demos\\DecodeFaults.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DecodeFaults.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tbates\\Python\\Demos\\Logger.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logger.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerDemo.py",
+              "DocumentMoniker": "C:\\Users\\tbates\\Python\\Demos\\LoggerDemo.py",
+              "RelativeDocumentMoniker": "LoggerDemo.py",
+              "ToolTip": "C:\\Users\\tbates\\Python\\Demos\\LoggerDemo.py",
+              "RelativeToolTip": "LoggerDemo.py",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-25T20:44:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.py",
+              "DocumentMoniker": "C:\\Users\\tbates\\Python\\Demos\\Logger.py",
+              "RelativeDocumentMoniker": "Logger.py",
+              "ToolTip": "C:\\Users\\tbates\\Python\\Demos\\Logger.py",
+              "RelativeToolTip": "Logger.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-25T20:46:00.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecodeFaults.py",
+              "DocumentMoniker": "C:\\Users\\tbates\\Python\\Demos\\DecodeFaults.py",
+              "RelativeDocumentMoniker": "DecodeFaults.py",
+              "ToolTip": "C:\\Users\\tbates\\Python\\Demos\\DecodeFaults.py",
+              "RelativeToolTip": "DecodeFaults.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-26T13:16:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MachineSetup_demo.py",
+              "DocumentMoniker": "C:\\Users\\tbates\\Python\\Demos\\MachineSetup_demo.py",
+              "RelativeDocumentMoniker": "MachineSetup_demo.py",
+              "ToolTip": "C:\\Users\\tbates\\Python\\Demos\\MachineSetup_demo.py",
+              "RelativeToolTip": "MachineSetup_demo.py",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAG0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-25T20:44:31.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateMCD.py",
+              "DocumentMoniker": "K:\\10. Released Software\\Shared Python Programs\\production-2.1\\GenerateMCD.py",
+              "ToolTip": "K:\\10. Released Software\\Shared Python Programs\\production-2.1\\GenerateMCD.py",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAAoBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-29T14:49:51.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
